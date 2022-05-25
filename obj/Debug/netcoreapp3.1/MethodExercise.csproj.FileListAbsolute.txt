@@ -1,0 +1,13 @@
+/Users/zoeybaker/repos/MethodExercise/MethodExercise/bin/Debug/netcoreapp3.1/MethodExercise.deps.json
+/Users/zoeybaker/repos/MethodExercise/MethodExercise/bin/Debug/netcoreapp3.1/MethodExercise.runtimeconfig.json
+/Users/zoeybaker/repos/MethodExercise/MethodExercise/bin/Debug/netcoreapp3.1/MethodExercise.runtimeconfig.dev.json
+/Users/zoeybaker/repos/MethodExercise/MethodExercise/bin/Debug/netcoreapp3.1/MethodExercise.dll
+/Users/zoeybaker/repos/MethodExercise/MethodExercise/bin/Debug/netcoreapp3.1/MethodExercise.pdb
+/Users/zoeybaker/repos/MethodExercise/MethodExercise/obj/Debug/netcoreapp3.1/MethodExercise.csproj.AssemblyReference.cache
+/Users/zoeybaker/repos/MethodExercise/MethodExercise/obj/Debug/netcoreapp3.1/MethodExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zoeybaker/repos/MethodExercise/MethodExercise/obj/Debug/netcoreapp3.1/MethodExercise.AssemblyInfoInputs.cache
+/Users/zoeybaker/repos/MethodExercise/MethodExercise/obj/Debug/netcoreapp3.1/MethodExercise.AssemblyInfo.cs
+/Users/zoeybaker/repos/MethodExercise/MethodExercise/obj/Debug/netcoreapp3.1/MethodExercise.csproj.CoreCompileInputs.cache
+/Users/zoeybaker/repos/MethodExercise/MethodExercise/obj/Debug/netcoreapp3.1/MethodExercise.dll
+/Users/zoeybaker/repos/MethodExercise/MethodExercise/obj/Debug/netcoreapp3.1/MethodExercise.pdb
+/Users/zoeybaker/repos/MethodExercise/MethodExercise/obj/Debug/netcoreapp3.1/MethodExercise.genruntimeconfig.cache
