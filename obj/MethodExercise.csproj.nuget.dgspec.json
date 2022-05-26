@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/zoeybaker/repos/MethodExercise/MethodExercise/MethodExercise.csproj": {}
+    "/Users/zoeybaker/repos/MethodExercise/MethodExercise2/MethodExercise.csproj": {}
   },
   "projects": {
-    "/Users/zoeybaker/repos/MethodExercise/MethodExercise/MethodExercise.csproj": {
+    "/Users/zoeybaker/repos/MethodExercise/MethodExercise2/MethodExercise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/zoeybaker/repos/MethodExercise/MethodExercise/MethodExercise.csproj",
+        "projectUniqueName": "/Users/zoeybaker/repos/MethodExercise/MethodExercise2/MethodExercise.csproj",
         "projectName": "MethodExercise",
-        "projectPath": "/Users/zoeybaker/repos/MethodExercise/MethodExercise/MethodExercise.csproj",
+        "projectPath": "/Users/zoeybaker/repos/MethodExercise/MethodExercise2/MethodExercise.csproj",
         "packagesPath": "/Users/zoeybaker/.nuget/packages/",
-        "outputPath": "/Users/zoeybaker/repos/MethodExercise/MethodExercise/obj/",
+        "outputPath": "/Users/zoeybaker/repos/MethodExercise/MethodExercise2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/zoeybaker/.config/NuGet/NuGet.Config"
